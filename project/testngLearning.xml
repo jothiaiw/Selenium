@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="5" >
+
+<!--  parallel="classes" thread-count="5"> -->
+
+<parameter name="url" value="http://leaftaps.com/opentaps/"></parameter>
+<parameter name="uname" value="DemoCSR"></parameter>
+<parameter name="pword" value="crmsfa"></parameter>
+  
+	  <test name="Test">
+	  
+    <classes>
+      <!-- <class name="testNGLearning.CreateLead"/> -->
+       <class name="testNGLearning.CreateLeadWithExcel"/>
+     <class name="testNGLearning.EditLead"/> 
+      
+    </classes>
+
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

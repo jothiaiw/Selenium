@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="448357" started-at="2019-04-18T13:23:55Z" finished-at="2019-04-18T13:31:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="448357" started-at="2019-04-18T13:23:55Z" finished-at="2019-04-18T13:31:23Z">
+      <class name="dataProvider.Dpcallingfunction">
+        <test-method status="PASS" signature="Clead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataProvider.Dpcallingfunction@25b2fe]" name="Clead" duration-ms="195081" started-at="2019-04-18T13:24:01Z" data-provider="eachin" finished-at="2019-04-18T13:27:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Wipro]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jothi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clead -->
+        <test-method status="PASS" signature="Clead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataProvider.Dpcallingfunction@25b2fe]" name="Clead" duration-ms="107683" started-at="2019-04-18T13:27:17Z" data-provider="eachin" finished-at="2019-04-18T13:29:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[KSR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Revathi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[B]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clead -->
+        <test-method status="PASS" signature="Clead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataProvider.Dpcallingfunction@25b2fe]" name="Clead" duration-ms="73291" started-at="2019-04-18T13:29:04Z" data-provider="eachin" finished-at="2019-04-18T13:30:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Infosys]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kavi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clead -->
+        <test-method status="PASS" signature="Clead(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:dataProvider.Dpcallingfunction@25b2fe]" name="Clead" duration-ms="64154" started-at="2019-04-18T13:30:18Z" data-provider="eachin" finished-at="2019-04-18T13:31:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Homemaker]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jeeva]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[K]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Clead -->
+      </class> <!-- dataProvider.Dpcallingfunction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
